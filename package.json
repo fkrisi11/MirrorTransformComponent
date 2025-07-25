@@ -1,22 +1,18 @@
 {
-  "name": "dev.sleightly.template",
-  "displayName": "JS-Template",
-  "version": "0.0.0",
-  "description": "A VPM Package Template",
-  "url": "https://github.com/JustSleightly/JS-Template",
-  "vpmDependencies": {
-    "com.vrchat.avatars": "^3.8.0"
-  },
+  "name": "com.tohruthedragon.mirrortransformcomponent",
+  "displayName": "TohruTheDragon - Mirror Transform Component",
+  "version": "1.0.0",
+  "description": "A component that expands on the functionality of the Unity Transform component",
+  "url": "https://github.com/fkrisi11/MirrorTransformComponent",
+  "vpmDependencies": {},
   "type": "tool",
   "keywords": [
-    "JustSleightly",
-    "Sleightly",
+    "TohruTheDragon",
     "VRChat",
-    "Template"
+    "Transform",
+    "Mirror"
   ],
   "author": {
-    "name": "JustSleightly",
-    "email": "just@sleightly.dev",
-    "url": "https://just.sleightly.dev"
+    "name": "TohruTheDragon"
   }
 }
